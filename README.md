@@ -1,5 +1,5 @@
 # factory-method-pattern
-Usando Factory Method Pattern para encapsular a criação de objetos usado C#
+Usando Factory Method para encapsular a criação de objetos usado C#
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -7,9 +7,9 @@ Usando Factory Method Pattern para encapsular a criação de objetos usado C#
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Sobre o projeto
-Este projeto mostra como usar o Factory Method Pattern para encapsular a criação de objetos usado C#.
+Este projeto mostra como usar o Factory Method para encapsular a criação de objetos usado C#.
 
-O Factory Method Pattern é uma forma específica do Factory Design Pattern, que pertence à categoria de padrões criacionais e é usado para encapsular a lógica de criação de objetos. Isso ajuda a abstrair o processo de criação de objetos, tornando o código mais flexível e fácil de dar manutenção.
+O Factory Method é uma forma específica do Factory Design Pattern, que pertence à categoria de padrões criacionais e é usado para encapsular a lógica de criação de objetos. Isso ajuda a abstrair o processo de criação de objetos, tornando o código mais flexível e fácil de dar manutenção.
 
 Ele define uma interface para criar objetos em uma classe, mas permite que as subclasses alterem o tipo de objetos que serão criados.
 
